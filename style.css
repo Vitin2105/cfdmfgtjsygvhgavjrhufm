@@ -1,0 +1,8 @@
+
+@media  only screen and (min-width: 600px) {
+    body { background-color: rgb(223, 24, 173);
+    }
+    #ima1 {width:30%;}
+
+       #ima2 {width: 30%;}
+  }
